@@ -25,3 +25,11 @@ Completed and fully functional.
 ## 👩‍💻 About
 
 This project was created to practice Android app development using modern Android development tools and architecture.
+
+## Screenshot 
+
+### Notes App
+
+![Notes App](Screenshot_20260912_232359.jpg)
+
+![Notes App Edit](Screenshot_20260912_232307.jpg)
